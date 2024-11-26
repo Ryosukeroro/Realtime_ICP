@@ -2,4 +2,6 @@
 研究用ICPアルゴリズムのリアルタイム実験コードです。
 # 使い方
 ROSで実行可能です。
-パッケージ名はLiDAR_client_nodeです。
+パッケージ名はLiDAR_client_node4です。
+
+まずは、
