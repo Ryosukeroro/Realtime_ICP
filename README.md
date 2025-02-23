@@ -19,5 +19,6 @@ rosrun research Lidar_node_client4
 ```
 
 # 実行例
+赤い色の点が現在のscanデータ、青い色の点がscan.txtのデータです(地図データ)。
 ![Screenshot from 2025-02-24 00-32-41](https://github.com/user-attachments/assets/7c0f2753-3732-4223-9609-5437f01882ac)
 
