@@ -4,6 +4,7 @@
 #include <cstdio>
 #include <fstream>
 #include <sstream>
+#include "constants.h"
 
 #define RAD2DEG(x) ((x)*180./M_PI)
 
